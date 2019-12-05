@@ -1,0 +1,18 @@
+section form button{
+	display:inline-block;
+	padding:8px 8px;
+	border:0.1em solid #3d2c8c;
+	margin:0 0 0 0;
+	border-radius:0.12em;
+	box-sizing: border-box;
+	text-decoration:none;
+	background-color:#3d2c8c;
+	font-weight:300;
+	color:#ffffff;
+	text-align:center;
+	transition: all 0.2s;
+}
+section form button:hover{
+	color:#FFFFFF;
+	background-color:#4fa1ca;
+}
